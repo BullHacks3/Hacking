@@ -58,6 +58,14 @@ URL : http://natas8.natas.labs.overthewire.org
 Level 9
 ```
 Username : natas9
-Password : 
+Password : W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
+Secret: oubWYf2kBq 
 URL : http://natas9.natas.labs.overthewire.org
+```
+
+Level 10
+```
+Username : natas10
+Password : nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu 
+URL : http://natas10.natas.labs.overthewire.org
 ```
