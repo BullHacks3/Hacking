@@ -69,3 +69,17 @@ Username : natas10
 Password : nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu 
 URL : http://natas10.natas.labs.overthewire.org
 ```
+Level 11
+```
+Username : natas11
+Password : U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
+URL : http://natas11.natas.labs.overthewire.org
+```
+Level 12
+```
+Username : natas12
+Password : nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu 
+URL : http://natas12.natas.labs.overthewire.org
+```
+
+
