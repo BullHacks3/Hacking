@@ -49,16 +49,23 @@ cat spaces\ in\ this\ filename
 ```
 
 >Level 3
+```
 Command:-  ssh bandit3@bandit.labs.overthewire.org -p 2220
 Password:- UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+```
 
 >Level 4
+```
 Command:-  ssh bandit4@bandit.labs.overthewire.org -p 2220
 Password:-  pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+```
 
 >Level 5
+```
 Command:- ssh bandit5@bandit.labs.overthewire.org -p 2220
 Password:- koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+```
+
 ```
 for i in `seq 0 9`;do echo ${i};cat /home/bandit4/inhere/-file0${i};done
 cat /home/bandit4/inhere/-file07
