@@ -1,7 +1,6 @@
 ### Solutions of Bandit War Games ###
 
 
-|------------------------|------------------------------------|
 |      Username          |        Password                    |
 |------------------------|------------------------------------|
 |   bandit0              |      bandit0                       |
@@ -12,7 +11,6 @@
 |   bandit5              | koReBOKuIDDepwhWk7jZC0RTdopnAYKh   |
 |   bandit7              | HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs   |
 |   bandit8              |                                    |
-|------------------------|------------------------------------|
 
 >Level 0
 Username: bandit0
