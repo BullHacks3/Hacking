@@ -70,7 +70,7 @@ Password:-
 ```
 "DXjZPULLxYr17uwoI01bNLQbtFemEgo7
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         "
-
+```
 >Level 7
 Command:- ssh bandit7@bandit.labs.overthewire.org -p 2220
 Password:- HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
