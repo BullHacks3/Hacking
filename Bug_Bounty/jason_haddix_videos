@@ -1,0 +1,80 @@
+######### Review of Jason Haddix Videos ##########
+
+1. How To Shot Web
+
+
+Discovery
+    Find the road less travelled
+  1. Recon-ng script (enumall.sh)
+
+Mapping
+	1. Taking notes
+
+Smart Directory Brute Lists
+	1. Seclists (RAFT, SVN Digger , Git digger )
+
+Platform Identification 
+	1. Wappalyzer
+	2. BuiltWith
+	3. retire.js
+
+Auxiliary
+	1. CMSScan
+	2. WpScan
+
+
+Directory BruteForce Workflow
+Auth Session Bug
+
+Tactical Fuzzing - XSS
+	1. Use PolyGots Payloads ( Rsnake XSS Cheat Sheet)
+	2. Ashar Javed Polygot
+	3. Mathias Karlson
+	4. SWF Parameter XSS ( FlashBang)
+
+Tactical Fuzzing - SQLi
+	1. SQLi Polygot  ( Mathias Karlsson)
+	2. SecLists Projects
+	3. SQLiPy burp plugin works well
+	Pentest Money Resources
+
+Tactical Fuzzing - File Uploads
+	1. Liffy
+
+CSRF [ Cross Side Request Forgeery ]
+	1. Burpy
+
+Privilege Transport Logic 
+	1. Autorize
+    2. ForceSSL
+
+IDOR [ Insecure Direct Object References ]
+
+====================================================================
+Methodology v2 
+===============
+
+Discovery 
+	SubScraping
+		Sublist3r
+		cloudflare_enum
+		censys.io
+	SubBruting
+		MassDNS
+		subbrute
+		gobuster
+		blacksheepwall
+	Port_Scanning
+		Masscan
+
+	Visual_Tool
+		EyeWitness
+
+	Directory BruteForcing
+   		gobuster
+
+   	Parameter Bruting
+   	     parameth
+   	     
+	CVE Searching
+		burp-vulners-scanner

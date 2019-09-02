@@ -1,0 +1,12 @@
+Vulnerabilities :-  
+
+1.	 XSS  [ Cross Site Scripting ]
+2.   SQL Injection
+3.   CSRF [ Cross Side Request Forgery ]
+4.   SSRF [ Server Side Request Forgery ]
+5.   SSTI [ Server Side Template Injection ]
+6.   XXE  [ External XML Entity ]
+7.   IDOR [ Insecure Data Object References ]
+8.   LFI  [ Local File Inclusion ]
+9.   RFI  [ Remote File Inclusion ]
+  
